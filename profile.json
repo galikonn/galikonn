@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "galikonn",
-  "seed": "#FF5CA8",
+  "seed": "#38414B",
   "seedFromAvatar": false,
   "scheme": "monochrome",
   "motion": true,
@@ -19,27 +19,19 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hello, I'm",
-    "name": "galikonn",
-    "subtitle": "cybersecurity expert | hyprland config specialist",
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
-    "avatarShape": "flower",
+    "avatarShape": "cookie12",
     "chips": [
       {
-        "icon": "brand:linux",
-        "label": "Linux|Arch"
+        "icon": "location_on",
+        "label": "Earth"
       },
       {
-        "icon": "brand:cplusplus",
-        "label": "C++"
-      },
-      {
-        "icon": "brand:javascript",
-        "label": "JavaScript"
-      },
-      {
-        "icon": "brand:hyprland",
-        "label": "Hyprland"
+        "icon": "code",
+        "label": "TypeScript · Python"
       }
     ]
   },
@@ -48,15 +40,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Cybersec tech"
+        "label": "Developer and designer"
       },
       {
         "icon": "code",
-        "label": "Mostly pentest"
+        "label": "Mostly frontend"
       },
       {
-        "icon": "terminal",
-        "label": "Into terminal"
+        "icon": "palette",
+        "label": "Into Material Design"
       }
     ]
   },
@@ -77,38 +69,6 @@
           {
             "icon": "brand:python",
             "label": "Python"
-          },
-          {
-            "icon": "brand:hyprland",
-            "label": "Hyprland"
-          },
-          {
-            "icon": "brand:linux",
-            "label": "Linux"
-          },
-          {
-            "icon": "brand:cplusplus",
-            "label": "C++"
-          },
-          {
-            "icon": "brand:javascript",
-            "label": "JS"
-          },
-          {
-            "icon": "brand:docker",
-            "label": "Doker"
-          },
-          {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
-            "icon": "brand:archlinux",
-            "label": "Arch"
-          },
-          {
-            "icon": "brand:git",
-            "label": "Git"
           }
         ]
       },
@@ -132,18 +92,11 @@
     ]
   },
   "projects": {
-    "source": "manual",
+    "source": "pinned",
     "repos": [],
-    "overrides": {
-      "dotfiles": {
-        "text": "c"
-      },
-      "tiny-weather": {
-        "text": "bgf"
-      }
-    },
-    "empty": "",
-    "fork": ""
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
   },
   "stats": {
     "title": "GitHub activity",
@@ -166,15 +119,15 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/lustkon"
+        "url": "https://t.me/"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/galikonn"
+        "url": "https://discord.com/"
       },
       {
-        "icon": "brand:gmail",
-        "url": "https://galikonn.cybersec@gmail.com"
+        "icon": "brand:x",
+        "url": "https://x.com/"
       }
     ],
     "variant": "chip",
