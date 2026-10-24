@@ -21,17 +21,25 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "Cybersecurity Tech|Hyprland configs dev",
     "typing": true,
-    "avatarShape": "cookie12",
+    "avatarShape": "flower",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Earth"
+        "icon": "brand:archlinux",
+        "label": "Arch"
       },
       {
-        "icon": "code",
-        "label": "TypeScript · Python"
+        "icon": "brand:hyprland",
+        "label": "Hypland"
+      },
+      {
+        "icon": "brand:cplusplus",
+        "label": "C++"
+      },
+      {
+        "icon": "brand:docker",
+        "label": "Docker"
       }
     ]
   },
@@ -40,15 +48,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Cybersecurity Expert"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Mostly Pentest"
       },
       {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "icon": "360",
+        "label": "Malware analysis"
       }
     ]
   },
@@ -69,6 +77,50 @@
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JS"
+          },
+          {
+            "icon": "brand:hyprland",
+            "label": "Hyprland"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:php",
+            "label": "php"
+          },
+          {
+            "icon": "brand:blender",
+            "label": "Blender"
           }
         ]
       },
@@ -86,6 +138,47 @@
           {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
+          }
+        ]
+      },
+      {
+        "title": "Cybersecuirty tools",
+        "items": [
+          {
+            "icon": "360",
+            "label": "Hydra"
+          },
+          {
+            "icon": "360",
+            "label": "Nmap"
+          },
+          {
+            "icon": "360",
+            "label": "Aircrack"
+          },
+          {
+            "icon": "360",
+            "label": "Burpsuite"
+          },
+          {
+            "icon": "360",
+            "label": "Wireshark"
+          },
+          {
+            "icon": "360",
+            "label": "Metasploit"
+          },
+          {
+            "icon": "360",
+            "label": "SQLmap"
+          },
+          {
+            "icon": "360",
+            "label": "Hashcat"
+          },
+          {
+            "icon": "360",
+            "label": "pfsense"
           }
         ]
       }
@@ -119,20 +212,21 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/lustkon"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://discord.com/galikonn"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:gmail",
+        "url": "https://galikonn.cybersec@gmail.com"
       }
     ],
     "variant": "chip",
     "fill": "tonal",
-    "card": true
+    "card": true,
+    "shape": "soft"
   },
   "buttons": {
     "items": [
